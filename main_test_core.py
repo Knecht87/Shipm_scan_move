@@ -28,9 +28,9 @@ while starter == 'k':
     while starter != 'k' and starter!= 'q':
         print ("Only k or q are available, try again")
         starter = input()
-#cnx = mysql.connect(user='root', password='root',
+#cnx = mysql.connect(user='root', password='',
 #                                host='192.168.200.10',
-#                                database='rabendb')
+#                                database='asd')
 #x = cnx.cursor()
 #x.execute("SELECT * FROM SSCConTrip")
 #cnx.close()
